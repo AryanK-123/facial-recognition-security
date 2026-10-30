@@ -22,4 +22,4 @@ If anyone else besides me comes on the frame a black border and the word "UNKNOW
 - The similarity threshold was determined by testing the code (the 1.15 in the embedding function in `securitytrainer.py`) so it has been increased which means more leniency
 
 ## Motivation
-I built this independently to explore computer vision and deep learning through a cool facial detection project to give myself a challenge
+I built this to explore computer vision and deep learning through a cool facial detection project to give myself a challenge
